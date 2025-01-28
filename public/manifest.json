@@ -1,5 +1,5 @@
 {
-    "name": "Nom de l'app",
+    "name": "app-pwa",
     "start_url": "./",
     "icons": [
       {
