@@ -10,7 +10,8 @@
             'images/a.jpg',
             'images/b.jpg',
             'images/c.jpg',
-            'images/d.jpg'
+            'images/d.jpg',
+            'manifest.json'
          ]);
         })
         .then(() => {
