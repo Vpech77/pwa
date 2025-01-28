@@ -3,7 +3,7 @@
     "start_url": "./",
     "icons": [
       {
-        "src": "imgs/icon.png",
+        "src": "images/icon.png",
         "sizes": "144x144",
         "type": "image/png"
       }
